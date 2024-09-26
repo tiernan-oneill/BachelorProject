@@ -1,4 +1,9 @@
 # BachelorProject
+
+### Project Title
+'Gravitational Waveforms from Extreme Mass Ratio Inspirals'
+
+### Project Information
 Mathematica code for the investigation of gravitational waveforms produced by an extreme mass ratio inspiral (EMRI) black hole system.
 - We apply a first order self-force adiabatic approximation in order to study the orbital parameters via the black hole equations of motion.
 - The Euler-Lagrange equations of motion for an EMRI are applied to a geodesic where the central BH is non-spinning (Schwarzschild), and the more complex case where the central BH is spinning (Kerr).
